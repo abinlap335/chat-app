@@ -1,12 +1,12 @@
 // ISI DENGAN PROJECT FIREBASE MILIK TEMEN-TEMEN SENDIRI
 const firebaseConfig = {
-    apiKey: "PUNYA-KAMU",
-    authDomain: "PUNYA-KAMU",
-    databaseURL: "PUNYA-KAMU",
-    projectId: "PUNYA-KAMU",
-    storageBucket: "PUNYA-KAMU",
-    messagingSenderId: "PUNYA-KAMU",
-    appId: "PUNYA-KAMU"
+    apiKey: "AIzaSyAxu_C61DQdD4_m-gncLyr1lw3qb4Rqmkg",
+    authDomain: "webchat-a4d92.firebaseapp.com",
+    databaseURL: "https://webchat-a4d92-default-rtdb.firebaseio.com",
+    projectId: "webchat-a4d92",
+    storageBucket: "webchat-a4d92.appspot.com",
+    messagingSenderId: "293348170377",
+    appId: "1:293348170377:web:81683e30a7d2c15698c458"
 };
 
 // BIAR GA KELAMAAN PAS MAU PANGGIL NANTI
